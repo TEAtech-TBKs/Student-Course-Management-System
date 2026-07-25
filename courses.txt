@@ -1,0 +1,3 @@
+COS102,Computer Programming,3
+CSC106,discrete logic,2
+SCS201,software req,3
