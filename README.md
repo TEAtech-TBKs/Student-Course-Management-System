@@ -4,7 +4,7 @@ A console-based Java application developed as part of the COS201 Programming I M
 
 ## Overview
 
-The Student Course Management System is designed o help students record and manage the
+The Student Course Management System is designed to help students record and manage the
 courses they are taking for the semester. The application allows users to add, view, search, save, and load course information through a menu-driven console interface.
 
 The project demonstrates the application of object-oriented programming principles, file handling, recursion, exception handling, string processing, and collection classes in Java.
